@@ -1,5 +1,17 @@
 # protein-dynamics-ai  
 
+## Install
+```
+# Ubuntu 20
+pip install plotly==4.14.3
+pip install jupyterlab "ipywidgets>=7.5"
+conda install -c plotly plotly-orca
+
+sudo apt update
+sudo apt install libgconf-2-4 libatk1.0-0 libatk-bridge2.0-0 libgdk-pixbuf2.0-0 libgtk-3-0 libgbm-dev libnss3-dev libxss-dev
+sudo apt install xvfb
+```
+
 ## Training Data
 * [CeramideMix-lipids-Test.pdb](CeramideMix-lipids-Test.pdb)
 
