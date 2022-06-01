@@ -26,22 +26,16 @@ sudo apt install xvfb
 
 
 ### Dots-Distance
-* [https://storage.cloud.google.com/protein-dynamics-ai/dots-distance_histogram.html](https://storage.cloud.google.com/protein-dynamics-ai/dots-distance_histogram.html)
-![img](output/dots-distance_histogram.png)
+* [Dots-Distance-1](https://storage.cloud.google.com/protein-dynamics-ai/dot_distance1_histogram.html)
+![img](output/dot_distance1_histogram.png)
+
+* [Dots-Distance-2](https://storage.cloud.google.com/protein-dynamics-ai/dot_distance2_histogram.html)
+![img](output/dot_distance2_histogram.png)
+
+* [Dots-Distance-3](https://storage.cloud.google.com/protein-dynamics-ai/dot_distance3_histogram.html)
+![img](output/dot_distance3_histogram.png)
 
 
 ## Simulated Data
-
-### Dots-Angle
-* [https://storage.cloud.google.com/protein-dynamics-ai/dots-angle_sim.html](https://storage.cloud.google.com/protein-dynamics-ai/dots-angle_sim.html)
-![img](output/dots-angle_sim.png)
-
-
-### Planes-Angle
-* [https://storage.cloud.google.com/protein-dynamics-ai/planes-angle_sim.html](https://storage.cloud.google.com/protein-dynamics-ai/planes-angle_sim.html)
-![img](output/planes-angle_sim.png)
-
-
-### Dots-Distance
-* [https://storage.cloud.google.com/protein-dynamics-ai/dots-distance_sim.html](https://storage.cloud.google.com/protein-dynamics-ai/dots-distance_sim.html)
-![img](output/dots-distance_sim.png)
+* [simulated pdb file](data_sim_all.pdb)
+* ![img](./image.png)
