@@ -1,6 +1,6 @@
 # protein-dynamics-ai  
 
-## Install
+## Install 
 ```
 # Ubuntu 20
 pip install plotly==4.14.3
