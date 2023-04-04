@@ -39,3 +39,4 @@ sudo apt install xvfb
 ## Simulated Data
 * [simulated pdb file](data_sim_all.pdb)
 * ![img](./image.png)
+* ![img](./output/pdb_trajectory.gif)
